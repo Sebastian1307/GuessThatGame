@@ -90,7 +90,7 @@ GuessThatGame/
 
 ---
 
-## 🧑‍💻 Contribuciones
+##  Contribuciones
 
 ¿Tienes ideas para mejorar el juego? ¡Perfecto!
 
@@ -113,7 +113,7 @@ Puedes usarlo, modificarlo y compartirlo libremente.
 
 ##  Enlaces útiles
 
-- 🎮 [Jugar en línea](https://guess-that-game.vercel.app)
-- 💾 [Repositorio en GitHub](https://github.com/Sebastian1307/GuessThatGame)
+-  [Jugar en línea](https://guess-that-game.vercel.app)
+-  [Repositorio en GitHub](https://github.com/Sebastian1307/GuessThatGame)
 
 ---
